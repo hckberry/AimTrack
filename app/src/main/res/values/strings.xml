@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aim Track</string>
+    <string name="a11y_desc">Sends assistive swipes to nudge aim toward a detected target. Only acts while the configured game app is in the foreground.</string>
+</resources>
